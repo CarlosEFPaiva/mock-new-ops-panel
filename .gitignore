@@ -21,7 +21,6 @@
 
 # cdk
 cdk.context.json
-package-lock.json
 
 # environments
 .env.local
