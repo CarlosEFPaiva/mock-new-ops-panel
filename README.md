@@ -14,3 +14,5 @@ Abra a URL mostrada no terminal, geralmente `http://localhost:5173`.
 ## Observação
 
 A v4 usa a chave `mecanizou-prototipo-v4` no `localStorage`. Use o botão de reset no topo para voltar aos dados iniciais.
+
+To be deployed on Vercel
